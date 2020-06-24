@@ -3,7 +3,11 @@
 
 //			Masson`s unique indetifier System
 //			This include adds the ability to get a unique identifier
-//			
+//			without any plugins and .dll / .so libraries
+
+//			Specially for Vognema Role Play @ 2020
+//			Solo Gamemode Developer: Folinq Weard
+//			Map & Model Makers: Roma Omegov, ...
 
 //			Version: 0.2
 //			Last Release: 22.06.2020
